@@ -1,2 +1,2 @@
-# ESP32-BALAM2020
-En este repositorio encontrara información acerca de la instalación y descripción de pines del ESP32 utilizado para proyecto Balam 2020.
+#Bienvenidos 
+Este repositorio contiene informacion que puede ser utilizada en el curso de IoT (Internet Of Things) realizado por Tesla Lab de Universidad Galileo, para Proyecto Balam.
