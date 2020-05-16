@@ -15,7 +15,7 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 	- Seleccionamos la opción que nos muestre ***esp32***
 	- Instalamos y luego precionamos la opción de ***Cerrar***
 
-Con esto Tendremos lista la instalación de nuestra tarjeta ESP32.	 
+Con esto tendremos completa la instalación de nuestra tarjeta ESP32 y lista para ser programada.	 
 
 # PinOut
 ![](/Img/PINOUT_ESP32.png)
