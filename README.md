@@ -6,7 +6,7 @@ Este repositorio contiene información que puede ser utilizada en el curso de Io
 Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 
 1. Abrir ARDUINO IDE
-2. 
+2. Debemos ir a la pestaña ***Archivo***
 *
 
 # PinOut
