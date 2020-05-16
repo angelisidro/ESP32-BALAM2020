@@ -7,7 +7,7 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 
 1. Abrir ARDUINO IDE
 2. Debemos ir a la pestaña ***Archivo***->***Preferencias***
-2.1
+2.1 En la pestaña ***Ajustes*** buscamos la opción: ***Gestor de URLs Adicionales de Tarjetas: ***
 *
 
 # PinOut
