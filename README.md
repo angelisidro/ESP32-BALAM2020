@@ -9,7 +9,7 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 2. Debemos ir a la pestaña ***Archivo***->***Preferencias***
 	- En la pestaña ***Ajustes*** buscamos la opción: ***Gestor de URLs Adicionales de Tarjetas: ***
 	- Pegamos la siguiente URL: ***https://dl.espressif.com/dl/package_esp32_index.json***
-*
+*	`Esto es una línea de código`
 
 # PinOut
 ![](/Img/PINOUT_ESP32.png)
