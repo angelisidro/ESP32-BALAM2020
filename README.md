@@ -56,9 +56,7 @@ SDA | GPIO21
 SCL | GPIO22
 
 ## Protocolo SPI
-Nombre | GPIO
---- | ---
-MOSI | GPIO23
-MISO | GPIO19
-CLK  | GPIO18
-CS   | GPIO5
+Nombre | GPIO | *** | Nombre | GPIO
+--- | --- | --- | --- | ---
+MOSI | GPIO23 | | CLK | GPIO18
+MISO | GPIO19 | | CS | GPIO5
