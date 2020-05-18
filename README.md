@@ -42,7 +42,7 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 ### ESP32 - Touch Sensor
 Touch | GPIO
 --- | ---
-T0 | GPIO4 |  | GPIO21
+T0 | GPIO4 |**** | GPIO21
 T1 | GPIO0
 T2 | GPIO2
 T3 | GPIO15
