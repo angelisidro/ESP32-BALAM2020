@@ -52,3 +52,12 @@ T6 | GPIO14
 T7 | GPIO27
 T8 | GPIO33
 T9 | GPIO32
+
+# Protocolos de comunicación
+## Protocolo I2C
+
+### ESP32 - Touch Sensor
+Nombre | GPIO
+--- | ---
+SDA | GPIO21
+SCL | GPIO22
