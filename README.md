@@ -40,8 +40,8 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 # Mapeo de Pines
 
 ### ESP32 - Touch Sensor
-Touch | GPIO | TOUCH | GPIO
---- | --- | --- | ---
+Touch | GPIO | *** | Touch | GPIO
+--- | --- | --- | --- | ---
 T0 | GPIO4 |**** | GPIO21
 T1 | GPIO0
 T2 | GPIO2
