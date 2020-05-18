@@ -36,3 +36,19 @@ En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que noso
 Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en el Sistema Operativo Windows.
 # PinOut
 ![](/Img/PINOUT_ESP32.png)
+
+# Mapeo de Pines
+
+### ESP32 - Touch Sensor
+ESP32 | Touch Sensor
+--- | ---
+T0 | GPIO4
+T1 | GPIO0
+T2 | GPIO2
+T3 | GPIO15
+T4 | GPIO13
+T5 | GPIO12
+T6 | GPIO14
+T7 | GPIO27
+T8 | GPIO33
+T9 | GPIO32
