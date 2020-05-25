@@ -39,7 +39,7 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 
 # DHT11
 
-Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
+Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran. Muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
 
 Nombre | GPIO PIN
 --- | ---
@@ -49,7 +49,7 @@ DATA | D4
 
 # NEOPIXEL
 
-Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
+Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran. Muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
 
 Nombre | GPIO PIN
 --- | ---
@@ -59,7 +59,7 @@ DATA | D2
 
 # PUSH BUTTON
 
-Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
+Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran. Muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
 
 Nombre | GPIO PIN
 --- | ---
