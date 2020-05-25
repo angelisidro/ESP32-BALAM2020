@@ -37,6 +37,15 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 # PinOut
 ![](/Img/PINOUT_ESP32.png)
 
+# DHT11
+
+Nombre | GPIO
+--- | ---
+DATA | D4
+
+![](/Img/PINOUT_ESP32.png)
+
+
 # Mapeo de Pines
 
 ### ESP32 - Touch Sensor
