@@ -45,6 +45,22 @@ DATA | D4
 
 ![](/Img/dht11.png)
 
+# NEOPIXEL
+
+Nombre | GPIO PIN
+--- | ---
+DATA | D2
+
+![](/Img/neo_pixel.png)
+
+# PUSH BUTTON
+
+Nombre | GPIO PIN
+--- | ---
+DATA | D19
+DATA | D13
+
+![](/Img/push_button.png)
 
 # Mapeo de Pines
 
