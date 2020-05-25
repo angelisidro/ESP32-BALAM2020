@@ -39,11 +39,11 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 
 # DHT11
 
-Nombre | GPIO
+Nombre | GPIO PIN
 --- | ---
 DATA | D4
 
-![](/Img/PINOUT_ESP32.png)
+![](/Img/dht11.png)
 
 
 # Mapeo de Pines
