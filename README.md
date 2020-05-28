@@ -43,7 +43,7 @@ Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso
 
 En los siguiente links encontraremos códigos base para distintas implementaciónes del sensor DHT11.
 
-[DHT11 en Web Server][CODIGO_DHT11]
+- [DHT11 en Web Server][CODIGO_DHT11]
 
 [CODIGO_DHT11]: https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Codigos_Base/WS-DHT11
 
