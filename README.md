@@ -41,7 +41,7 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 
 Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran. Muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
 
-En el siguiente link Encontraremos un código base para implementación del sensor DHT11 en un Web Server.
+En los siguiente links encontraremos códigos base para distintas implementaciónes del sensor DHT11.
 
 [DHT11 en Web Server][CODIGO_DHT11]
 
