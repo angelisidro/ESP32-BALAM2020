@@ -41,6 +41,12 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 
 Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran. Muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
 
+En el siguiente link Encontraremos un código base para implementación del sensor DHT11 en un Web Server.
+
+[DHT11 en Web Server][CODIGO_DHT11]
+
+[CODIGO_DHT11]: https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Codigos_Base/WS-DHT11
+
 Nombre | GPIO PIN
 --- | ---
 DATA | D4
@@ -60,6 +66,7 @@ DATA | D2
 # PUSH BUTTON
 
 Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran. Muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
+
 
 Nombre | GPIO PIN
 --- | ---
