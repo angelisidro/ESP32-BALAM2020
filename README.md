@@ -41,11 +41,15 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 
 El Curso "Creando mi primera Aplicación IoT" esta divido en 5 Unidades las cuales están descritas a continuación:
 
-## Unidad 1
+## Unidad 1 (Electrónica)
 
 En esta unidad se aprenderán conceptos básicos de electrónica y el funcionamiento de nuestros dispositivos, así mismo también se tocaran temas como lo son la presentación del Kit que estarán utilizado, el uso de hojas de datos para el correcto uso de los dispositivos y sus respectivas conexiones eléctricas.
 
 ![](/Img/kit.png)
+
+## Unidad 2 (Programación)
+
+En esta unidad se aprenderá sobre los fundamentos para programación a través del Arduino IDE. Encontrarás los códigos utilizados dentro de cada una de las subsecciones de la unidad, así como los diagramas de conexión de cada uno de los circuitos utilizados.
 
 # DHT11
 
