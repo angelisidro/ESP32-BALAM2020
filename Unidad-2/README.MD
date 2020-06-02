@@ -57,11 +57,11 @@ DATA | D22
 
 Codigó base:
 
-- [NeoPixel-V0][NeoPixel0]
+- [NeoPixel-V.0][NeoPixel0]
 
 [NeoPixel0]: https://github.com/angelisidro/ESP32-BALAM2020/blob/master/Unidad-2/Codigos_base/neopixel-v0.ino
 
-- [NeoPixel-V0-1][NeoPixel]
+- [NeoPixel-V.1][NeoPixel]
 
 [NeoPixel]: https://github.com/angelisidro/ESP32-BALAM2020/blob/master/Unidad-2/Codigos_base/neopixel-v0-1.ino
 
