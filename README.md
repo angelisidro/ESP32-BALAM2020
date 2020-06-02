@@ -43,6 +43,7 @@ El Curso "Creando mi primera Aplicación IoT" esta divido en 5 Unidades las cual
 
 ## Unidad 1
 
+En esta unidad se aprenderán conceptos básicos de electrónica y el funcionamiento de nuestros dispositivos, así mismo también se tocaran temas como lo son el uso de hojas de datos para el correcto uso de los dispositivos y sus respectivas conexiones eléctricas.
 
 # DHT11
 
