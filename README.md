@@ -47,9 +47,8 @@ En esta unidad se aprenderán conceptos básicos de electrónica y el funcionami
 
 ![](/Img/kit.png)
 
-## Unidad 2 (Programación)
 
-[![Unidad 2](/Img/unidad2.png)](https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-2 "Redirect to homepage")
+[![Unidad 2](/Img/unidad2.png)](https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-2 )
 
 En esta unidad se aprenderá sobre los fundamentos para programación a través del Arduino IDE. Encontrarás los códigos utilizados dentro de cada una de las subsecciones de la unidad, así como los diagramas de conexión de cada uno de los circuitos utilizados.
 
