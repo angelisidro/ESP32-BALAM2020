@@ -37,6 +37,13 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 # PinOut
 ![](/Img/PINOUT_ESP32.png)
 
+# Unidades del curso
+
+El Curso "Creando mi primera Aplicación IoT" esta divido en 5 Unidades las cuales están descritas a continuación:
+
+## Unidad 1
+
+
 # DHT11
 
 Estos son los pines que estaremos utilizando en los vídeos a lo largo del curso, pero ustedes son libres de utilizar los pines que prefieran. Muy importante es que revisen si el pin que quiere utilizar es compatible con el dispositivo que van a conectar.
