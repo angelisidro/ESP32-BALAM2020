@@ -9,11 +9,28 @@ Nombre | GPIO PIN
 LED Rojo | Conexón Interna
 LED Azul | D2
 
+![](/Img/led.png)
+
 ## Push Button
-Use PIN 23
+
+Nombre | GPIO PIN
+--- | ---
+Push Button | D23
+
+![](/Img/unidad2_push.png)
 
 ## DHT 11
-Use PIN 4
+
+Nombre | GPIO PIN
+--- | ---
+DATA | D4
+
+![](/Img/unidad2_dht.png)
 
 ## NeoPixel Ring
-Use PIN 22
+
+Nombre | GPIO PIN
+--- | ---
+DATA | D22
+
+![](/Img/unidad2_neo.png)
