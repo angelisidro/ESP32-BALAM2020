@@ -35,7 +35,7 @@ En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que noso
 
 Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en el Sistema Operativo Windows.
 # PinOut
-![](/Img/PINOUT_ESP32.png)
+![](/Img/PINOUT_32.png)
 
 # Unidades del curso
 
