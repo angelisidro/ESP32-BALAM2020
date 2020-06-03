@@ -41,7 +41,7 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 
 El Curso "Creando mi primera Aplicación IoT" esta divido en 5 Unidades las cuales están descritas a continuación:
 
-## Unidad 1 (Electrónica)
+![](/Img/unidad1.png)
 
 En esta unidad se aprenderán conceptos básicos de electrónica y el funcionamiento de nuestros dispositivos, así mismo también se tocaran temas como lo son la presentación del Kit que estarán utilizado, el uso de hojas de datos para el correcto uso de los dispositivos y sus respectivas conexiones eléctricas.
 
