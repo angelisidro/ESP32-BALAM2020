@@ -59,11 +59,13 @@ En esta unidad se aprenderá sobre los fundamentos para programación a través 
 
 [![Unidad 3](/Img/unidad3.png)](https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-3 )
 
+En esta unidad se aprenderá algunos de los conceptos básicos necesarios para empezar a experimentar con IoT, tanto con WiFi como Bluetooth. Encontrarás los códigos utilizados dentro de cada una de las subsecciones de la unidad, así como los diagramas de conexión de cada uno de los circuitos utilizados. De igual forma, encontrarás en algunas subsecciones los proyectos utilizados en App Inventor.
+
 [![Unidad 4](/Img/unidad4.png)](https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-4 )
 
 [![Unidad 5](/Img/unidad5.png)](https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-5 )
 
-
+En esta unidad se realizarán cases para la tarjeta trabajada en la unidad 4 y les daremos ideas de como hacer un case para los componentes utilizados en el Proyecto Balam. Para esta unidad, estaremos utilizando tanto Tinkercad como Fusion 360.
 
 # Mapeo de Pines
 
