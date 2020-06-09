@@ -63,6 +63,8 @@ En esta unidad se aprenderá algunos de los conceptos básicos necesarios para e
 
 [![Unidad 4](/Img/unidad4.png)](https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-4 )
 
+En esta unidad se realizara un modulo para nuestra tarjeta ESP32 con el programa de diseño para PCB KiCad, en el cual se podrá colocar nuestro sensor DHT11 y las conexiones para nuestro NeoPixel Ring, también colocaremos un espacio para la colocación de nuestros Push Button, el objetivo final de esta unidad es que usted sea capas de enviar su diseño a una de las empresas mas reconocidas a nivel de fabricación de PCB llamada OSH-PARK.
+
 [![Unidad 5](/Img/unidad5.png)](https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-5 )
 
 En esta unidad se realizarán cases para la tarjeta trabajada en la unidad 4 y les daremos ideas de como hacer un case para los componentes utilizados en el Proyecto Balam. Para esta unidad, estaremos utilizando tanto Tinkercad como Fusion 360.
