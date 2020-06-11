@@ -69,8 +69,7 @@ DATA | D13
 
 # APP INVENTOR
 
-- [Bluetooth DHT11][app_dht11]
-
-[app_dht11]: 
-
-[link](ai2.appinventor.mit.edu/?galleryId=5235451292418048){:target="_blank"}
+- BT_DHT - `ai2.appinventor.mit.edu/?galleryId=5235451292418048`
+- BT_DHT_NEOPIXELS - `ai2.appinventor.mit.edu/?galleryId=5961119420514304`
+- BLE-NEOPIXELS - `https://drive.google.com/file/d/1ljhbJaO-LeQgCX1_abzHMN2lAW4LIKSw/view?usp=sharing`
+- WS-App inventor - `ai2.appinventor.mit.edu/?galleryId=6146330372472832`
