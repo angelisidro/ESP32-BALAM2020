@@ -69,6 +69,8 @@ DATA | D13
 
 # APP INVENTOR
 
+Si desea visitar los archivos para App Inventor, copie y pegue los links en un nuevo tab en su navegador
+
 - BT_DHT - `ai2.appinventor.mit.edu/?galleryId=5235451292418048`
 - BT_DHT_NEOPIXELS - `ai2.appinventor.mit.edu/?galleryId=5961119420514304`
 - BLE-NEOPIXELS - `https://drive.google.com/file/d/1ljhbJaO-LeQgCX1_abzHMN2lAW4LIKSw/view?usp=sharing`
