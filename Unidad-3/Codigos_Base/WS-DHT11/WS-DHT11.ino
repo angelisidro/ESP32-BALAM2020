@@ -38,29 +38,13 @@ void setup() {
   delay(100);
 
   //Debemos inicializar el sensor
-  pinMode(DHTPin, INPUT);
-  dht.begin();
 
   //Debemos inicializar la conexión
-  WiFi.begin(ssid, password);
-
-  while(WiFi.status() != WL_CONNECTED){
-    delay(1000);
-    Serial.print(".");  
-  }
-
-  Serial.println();
-  Serial.print("Nuestra ip es la siguiente: ");
-  Serial.println(WiFi.localIP());
   
   // Se debe esperar hasta lograr la conexión
   
   
   //Debemos inicializar el servidor web
-  server.on("/", handleConnect);
-  server.onNotFound(handle_NotFound);
-  server.begin();
-  Serial.println("El servidor se ha inicializado");
   
 }
 
@@ -72,9 +56,7 @@ void loop() {
 //Que hace el servidor web al momento de que alguien se conecte
 void handleConnect() {
   //COLOCAR SU CÓDIGO
-  temperatura = dht.readTemperature();
-  humedad = dht.readHumidity();
-  server.send(200, "text/hmtl", Enviar_nuestro_HTML(temperatura, humedad)); 
+    
 }
 
 

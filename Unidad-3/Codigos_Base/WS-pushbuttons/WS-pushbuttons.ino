@@ -17,8 +17,8 @@ WebServer server(80);//Definimos el puerto que utilizara nuestro servidor
 
 
 // Credenciales de nuestra red wifi
-const char* ssid = "CLARO_f3292e";  // Colocamos nuestro SSID (Nombre de nuestro "wifi")
-const char* password = "B9BaBa0C6B";  //Colocamos la contraseña de tu wifi
+const char* ssid = "Nombre";  // Colocamos nuestro SSID (Nombre de nuestro "wifi")
+const char* password = "Contraseña";  //Colocamos la contraseña de tu wifi
 
 
 //Variables para el push 1 
@@ -39,13 +39,11 @@ void setup ( void ) {
   delay(100);
 
   //Inicializamos los pines de los botones
-  pinMode(PIN_btn1, INPUT);
-  pinMode(PIN_btn2, INPUT);
 
   //Se inicia la conexión a la red wifi
   Serial.println("Se esta intentando conectar a: ");
   Serial.println(ssid);
-  WiFi.begin(ssid, password);
+  
   Serial.println();
 
   // Se espera hasta lograr la conexión
@@ -62,9 +60,7 @@ void setup ( void ) {
   Serial.println ( WiFi.localIP() );
 
   //Debemos inicializar el servidor web
-  server.on("/", handleConnect);
-  server.onNotFound(handleNotFound);
-  server.begin();
+  
 }
 
 void loop ( void ) {
@@ -72,50 +68,26 @@ void loop ( void ) {
   server.handleClient();
 
   //Leemos el estado actual del push
-  estado_boton1 = digitalRead(PIN_btn1);
-  estado_boton2 = digitalRead(PIN_btn2);
-  
+ 
   // Se compara si el estado actual es el mismo que el anterior, registrado
-  if(estado_boton1 != ultimo_estado1){
+  
   // Si se dio un cambio, es posible que se sume al contador
-    if(estado_boton1 == HIGH){  
+  
   // Si el cambio de estado ALTO a BAJO, sumamos
-     contador_de_pulsos1++;
-     Serial.print("Se ha sumado al contador, el total es");
-     Serial.println(contador_de_pulsos1); 
+  
   // Una pequeña espera para evitar duplicados
 
   // Guardamos el ultimo estado que se presento
-    }
-    delay(50);
-  }
-
-  //BOTON 2
-  // Se compara si el estado actual es el mismo que el anterior, registrado
-  if(estado_boton2 != ultimo_estado2){
-  // Si se dio un cambio, es posible que se sume al contador
-    if(estado_boton2 == HIGH){  
-  // Si el cambio de estado ALTO a BAJO, sumamos
-     contador_de_pulsos2++;
-     Serial.print("Se ha sumado al contador, el total es");
-     Serial.println(contador_de_pulsos2); 
+  
   // Una pequeña espera para evitar duplicados
 
   // Guardamos el ultimo estado que se presento
-    }
-    delay(50);
-  }
-
-  ultimo_estado1 = estado_boton1;
-  ultimo_estado2 = estado_boton2;
-  
+ 
 }
 
 //Que hace el servidor web al momento de que alguien se conecte
 void handleConnect() {
-  String str;
-  str = Generar_nuestro_HTML(contador_de_pulsos1, contador_de_pulsos2);
-  server.send(200, "text/html", str);
+  
 }
 
 void handleNotFound() {

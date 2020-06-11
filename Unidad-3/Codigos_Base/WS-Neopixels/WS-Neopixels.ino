@@ -19,8 +19,8 @@
 WebServer server(80); //Definimos el puerto que utilizara nuestro servidor
 
 // Credenciales de nuestra red wifi
-const char* ssid = "CLARO_f3292e";  // Colocamos nuestro SSID (Nombre de nuestro "wifi")
-const char* password = "B9BaBa0C6B";  //Colocamos la contraseña de tu wifi
+const char* ssid = "Nombre";  // Colocamos nuestro SSID (Nombre de nuestro "wifi")
+const char* password = "Contraseña";  //Colocamos la contraseña de tu wifi
 
 
 // Variables y constantes a utilizar para los neopixels
@@ -37,15 +37,9 @@ void setup ( void ) {
   delay(100);
 
   //Inicializamos los neopixels
-  pixels.setBrightness(brightness);
-  pixels.begin();
-  pixels.show();
-  delay(75);
-  Serial.println("Ya se han inicializado los pixels");
-  
+ 
   //Se inicia la conexión a la red wifi
-  WiFi.begin(ssid, password);
-  Serial.println();
+  
 
   // Se espera hasta lograr la conexión
   while ( WiFi.status() != WL_CONNECTED ) {
@@ -59,11 +53,7 @@ void setup ( void ) {
   Serial.println ( WiFi.localIP() );
 
   //Debemos inicializar el servidor web
-  server.on("/", handleConnect);
-  server.onNotFound(handle_NotFound);
-  server.begin();
-
-  Serial.println("Se ha inicializado todo");
+  
 }
 
 void loop ( void ) {
@@ -74,13 +64,7 @@ void loop ( void ) {
 //Que hace el servidor web al momento de que alguien se conecte
 void handleConnect() {
   //COLOCAR SU CÓDIGO 
-  String color = server.arg("c");
-  Serial.println("El color enviado es" + color);
-  colorNeopixel(color);
-
-  String pagina;
-  pagina=Generar_nuestro_HTML();
-  server.send(200, "text/html", pagina);
+  
 }
 
 //Que hace el servidor si le solicitan algo que no tiene disponible
