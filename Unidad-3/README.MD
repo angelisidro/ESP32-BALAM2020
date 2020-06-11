@@ -73,4 +73,4 @@ DATA | D13
 
 [app_dht11]: 
 
-[link](url){:target="ai2.appinventor.mit.edu/?galleryId=5235451292418048"}
+[link](ai2.appinventor.mit.edu/?galleryId=5235451292418048){:target="_blank"}
