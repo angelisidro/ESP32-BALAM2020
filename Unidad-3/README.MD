@@ -71,6 +71,6 @@ DATA | D13
 
 - [Bluetooth DHT11][app_dht11]
 
-[app_dht11]: ai2.appinventor.mit.edu/?galleryId=5235451292418048
+[app_dht11]: 
 
-[Bluetooth DHT11](ai2.appinventor.mit.edu/?galleryId=5235451292418048)
+[link](url){:target="ai2.appinventor.mit.edu/?galleryId=5235451292418048"}
