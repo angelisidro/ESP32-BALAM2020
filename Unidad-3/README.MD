@@ -12,6 +12,14 @@ En los siguiente links encontraremos códigos base para distintas implementacion
 
 [CODIGO_DHT11]: https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Codigos_Base/WS-DHT11
 
+- [DHT11 en Bluetooth][CODIGO_DHT11_BT]
+
+[CODIGO_DHT11_BT]: https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-3/Codigos_Base/BT-DHT11
+
+- [NeoPixel y DHT11 en Bluetooth][CODIGO_NeoPixel_DHT11_BT]
+
+[CODIGO_NeoPixel_DHT11_BT]: https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-3/Codigos_Base/BT-DHT11-Neo
+
 Nombre | GPIO PIN
 --- | ---
 DATA | D4
@@ -27,6 +35,14 @@ En los siguiente links encontraremos códigos base para distintas implementacion
 - [NeoPixel en Web Server][CODIGO_NeoPixel]
 
 [CODIGO_NeoPixel]: https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Codigos_Base/WS-Neopixels
+
+- [NeoPixel BLE][CODIGO_NeoPixel_BT]
+
+[CODIGO_NeoPixel_BT]: https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-3/Codigos_Base/BLE-Neopixels
+
+- [NeoPixel y DHT11 en Bluetooth][CODIGO_NeoPixel_DHT11_BT]
+
+[CODIGO_NeoPixel_DHT11_BT]: https://github.com/angelisidro/ESP32-BALAM2020/tree/master/Unidad-3/Codigos_Base/BT-DHT11-Neo
 
 Nombre | GPIO PIN
 --- | ---
