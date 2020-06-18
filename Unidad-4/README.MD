@@ -12,6 +12,23 @@ En está unidad estaremos utilizando librerías para los componentes de nuestra 
 
 # Circuito esquemático
 
-Así es como deberia lucir nuestro circuito esquematico una vez terminado, ustedes son libres de colocar los componentes en cualquier posicion de la hoja que esten utilizando.
+Así es como debería lucir nuestro circuito esquemático una vez terminado, ustedes son libres de colocar los componentes en cualquier posición de la hoja que estén utilizando.
 
 ![](/Img/esquematico.PNG)
+
+# PCB Layout
+
+Esta es una vista del layout de nuestra PCB, vista desde la parte TOP y BOTTOM.
+
+![](/Img/KICAD.PNG)
+![](/Img/KICAD2.PNG)
+
+# Vista 3D
+
+![](/Img/kicad3.PNG)
+
+
+# OSH PARK
+
+![](/Img/TOP_OSH.PNG)
+![](/Img/BOTTOM_OSH.PNG)
